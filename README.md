@@ -4,6 +4,11 @@ this is the barebones version with source code
 time to to complete this : 3 weeks
 more updates are possible soon
 
+
+https://github.com/user-attachments/assets/a9e043e6-1671-4224-a566-ec23a137d6f4
+
+
+
 ## how to install
 1. download the zip file
 2. extract the zip file
